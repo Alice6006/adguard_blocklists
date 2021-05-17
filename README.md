@@ -9,3 +9,5 @@ So you can use the copied list from me (for the samsung only) or pick a tv from 
 I'll try to update the list as soon as the other list will be updated.
 
 For my list in adguard/pihole add: https://raw.githubusercontent.com/Alice6006/adguard_blocklists/main/Samsung-TV_Blocklist.txt
+
+If you've any extra for the blocklist that I forgot, please send me a message with the links and I'll mention you as contributer.
