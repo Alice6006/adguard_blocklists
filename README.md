@@ -1,0 +1,2 @@
+# adguard_blocklists
+AdGuard
