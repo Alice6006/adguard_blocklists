@@ -6,4 +6,4 @@ Shoutout to Dandelion Sprout for giving us this list and I will put the original
 
 So you can use the copied list from me (for the samsung only) or pick a tv from the list from Dandelion Sprout at your choice (or all of them). Enjoy the list!
 
-For my list in adguard add: https://raw.githubusercontent.com/Alice6006/adguard_blocklists/main/Samsung-TV_Blocklist.txt
+For my list in adguard/pihole add: https://raw.githubusercontent.com/Alice6006/adguard_blocklists/main/Samsung-TV_Blocklist.txt
