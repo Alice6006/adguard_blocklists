@@ -113,4 +113,3 @@
 ||tv-static.scdn.co^
 !tv.deezer.com # Breaks Deezer's smart-TV apps.
 ||xml.opera.com^$ctag=device_tv^
-
